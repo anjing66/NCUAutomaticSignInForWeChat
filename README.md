@@ -12,6 +12,7 @@
    （7）userId你自己的学号  
    （8）addressInfo你自己的地址，也就是企业微信号每日健康打卡中的详细地址一栏  
 4.全部纯手撸的，半天时间搞定，凑合用把（反正我是能用）
+![](https://github.com/anjing66/NCUAutomaticSignInForWeChat/blob/main/%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg)
 
    
    
